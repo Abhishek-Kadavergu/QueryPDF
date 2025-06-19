@@ -27,3 +27,4 @@ fastapi
 uvicorn
 langchain
 llama-index
+PyMuPDF
