@@ -28,3 +28,4 @@ uvicorn
 langchain
 llama-index
 PyMuPDF
+langchain-community
